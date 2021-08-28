@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abir Hasan</h1>
 <h3 align="center">Front-End Developer</h3>
-![       Frontend Developer](https://github.com/abirhasn07/abirhasn07/blob/main/undraw_version_control_re_mg66.png)
+
+![       Frontend Developer](https://raw.githubusercontent.com/abirhasn07/abirhasn07/main/undraw_version_control_re_mg66.png)
 
 Hi, I'm Abir Hasan a freelance frontend developer from Chittagong, Bangladesh. I help Company To Build Responsive Website With User-Friendly Experiences.
 
